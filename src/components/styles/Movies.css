@@ -1,0 +1,16 @@
+.ul-movies {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+}
+
+.ul-movies li {
+    max-width: 200px;
+    overflow: hidden;
+}
+
+.ul-movies img {
+    width: 200px;
+}
